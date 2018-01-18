@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Night Slaughter.data.unityweb",
+"asmCodeUrl": "Night Slaughter.asm.code.unityweb",
+"asmMemoryUrl": "Night Slaughter.asm.memory.unityweb",
+"asmFrameworkUrl": "Night Slaughter.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
